@@ -9,7 +9,7 @@ Following the [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, 
 
 - [x] Make it deploy (w/ vercel)
 - [x] Scaffold basic UI with mock data
-- [ ] Tidy up build process
+- [x] Tidy up build process
 - [ ] Actually set up a database (w/ vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add user authentication (w/ clerk)
